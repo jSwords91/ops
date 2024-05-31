@@ -1,2 +1,2 @@
-# ops
-Ops of various kinds
+# Ops...
+"Ops" of various kinds
